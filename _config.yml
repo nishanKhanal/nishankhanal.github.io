@@ -324,3 +324,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# # for development
+# port: 4000
+# host: "0.0.0.0"
